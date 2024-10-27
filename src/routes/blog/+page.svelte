@@ -1,3 +1,7 @@
+<svelte:head>
+  <title>Blog</title>
+  <meta name="description" content="Blog" />
+</svelte:head>
 <div class="blog">
   <h2>blog post incoming... just a few api calls away 🧑‍💻</h2>
   <p>

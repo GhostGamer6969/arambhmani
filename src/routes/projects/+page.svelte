@@ -1,3 +1,8 @@
+<svelte:head>
+  <title>Projects</title>
+  <meta name="description" content="Projects" />
+</svelte:head>
+
 <div class="projects">
   <h2>404: data not found, but we're working on it... 🤖</h2>
   <p>

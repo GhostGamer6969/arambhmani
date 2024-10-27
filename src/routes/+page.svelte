@@ -1,3 +1,8 @@
+<svelte:head>
+  <title>Home</title>
+  <meta name="description" content="Home" />
+</svelte:head>
+
 <div class="page-container">
   <div class="home-container">
     <h1 class="greeting">Ahoy there 👋</h1>
