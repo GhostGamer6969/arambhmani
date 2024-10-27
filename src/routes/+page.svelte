@@ -81,7 +81,7 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh; /* Full viewport height */
-    background-color: #f4f4f4; /* Light grey background */
+    background-color: #121212; /* Light grey background */
   }
 
   .greeting {
